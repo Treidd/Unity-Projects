@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MyFractal.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4DC64B00-B66E-8102-503F-5312C0325D8C}") = "My Fractal", "Assembly-CSharp.csproj", "{6BA39623-2A31-B4D3-64C5-0844E2C30AF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BA39623-2A31-B4D3-64C5-0844E2C30AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA39623-2A31-B4D3-64C5-0844E2C30AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA39623-2A31-B4D3-64C5-0844E2C30AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA39623-2A31-B4D3-64C5-0844E2C30AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
